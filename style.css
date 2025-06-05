@@ -1,0 +1,14 @@
+:root {
+    --blue: #1992d4;
+    --white: white;
+    --gray: #e2e8f0;
+    --title: black;
+    --text: #636363;
+    --card-yellow: #f0b429;
+}
+
+* {
+    font-family: "Roboto", sans-serif;
+    padding: 0;
+    margin: 0;
+}
